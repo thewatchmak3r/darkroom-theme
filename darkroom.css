@@ -1,0 +1,86 @@
+/* Darkroom by thewatchmak3r, based on Minimal - Resource by jonsnow231 */
+
+.theme-dark {
+
+	--background-primary: #190000;
+	--background-primary-alt: #2e0000;
+	--background-secondary: #240000;
+	--background-secondary-alt: #240000;
+
+
+	--text-accent-hover: #de0202;
+	--text-normal: #b80202;
+	--text-muted: #800000;
+	--text-faint: #632121; 
+	--text-accent: #fb6666;
+	--text-on-accent: #fa7070; 
+
+	--h1-color: #e60000;
+	--h2-color: #f52222;
+	--h3-color: #f52f2f;
+	--h4-color: #f73b3b;
+	--h5-color: #f34545;
+	--h6-color: #eb6060;
+
+	--italic-color: #e60000;
+	--bold-color: #e60000;
+	--tag-color: #fb6666;
+	--code-normal: #fb6666;
+	--link-external-color: #fb6666;
+	--text-selection: #678ba6;
+
+	--inline-title-color: #e60000;
+	--tab-text-color-focused-active-current: #ff0f0f;
+	--icon-color-focused: #ff0f0f;
+	--icon-color-hover: #f56969;
+	--nav-item-color-hover: #f56969;
+	--nav-item-background-active: #631212;
+	--nav-file-tag: #631212;
+	--nav-indentation-guide-color: #ff0f0f;
+	--interactive-accent: #483699;
+	--scrollbar-thumb-bg: #3f3e3e;
+	--indentation-guide-color: #690707;
+	--indentation-guide-color-active: #ff0f0f;
+		
+	--table-header-background: #690707;
+	--table-row-alt-background: #2e0000;
+
+/*Extra information for you to change*/
+
+	--background-modifier-border: #690707;
+	--background-modifier-form-field: rgba(0, 0, 0, 0.3);
+	--background-modifier-form-field-highlighted: rgba(0, 0, 0, 0.22);
+	--background-modifier-box-shadow: rgba(0, 0, 0, 0.3);
+	--background-modifier-success: #197300;
+	--background-modifier-error: #3d0000;
+	--background-modifier-error-hover: #470000;
+	--background-modifier-cover: rgba(0, 0, 0, 0.8);
+
+	--text-error: #ff3333;
+	--text-error-hover: #990000;
+
+	--highlight-mix-blend-mode: lighten;
+	--background-modifier-error-rgb: 61, 0, 0;
+	--text-muted-rgb: 153, 153, 153;
+	--interactive-accent-rgb: 72, 54, 153;
+	
+	--text-highlight-bg: #6b0101;
+	--text-highlight-bg-active: rgba(107, 1, 1, 0.4);
+	--text-selection: rgba(61, 29, 29, 0.99);
+
+	--interactive-normal: #240000;
+	--interactive-hover: #303030;
+	--interactive-accent-hover: #4d3ca6;
+	--interactive-success: #197300;
+	--scrollbar-active-thumb-bg: rgba(184, 2, 2, 0.8);
+	--scrollbar-bg: rgba(255, 255, 255, 0.05);
+	--scrollbar-thumb-bg: rgba(184, 2, 2, 0.3);
+
+}
+
+/* For more css snippets follow zamsyt: https://github.com/zamsyt/obsidian-snippets/blob/main/Note%20color%20scheme.css */ 
+
+
+	
+	
+	
